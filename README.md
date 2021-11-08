@@ -1,1 +1,1 @@
-# WP-ECommerce
+# wordpress-ecommerce

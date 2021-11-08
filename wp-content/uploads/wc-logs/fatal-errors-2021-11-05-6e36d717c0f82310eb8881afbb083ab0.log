@@ -1,0 +1,44 @@
+2021-11-05T11:59:02+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\utilities\plugins.php:346
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\control-panel-2\includes\class-updates-manager.php(95): jupiterx_core_update_plugins_status(Object(WP_Error))
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\control-panel-2\includes\class-updates-manager.php(65): JupiterX_Core_Control_Panel_Updates_Manager->get_plugins_updates()
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): JupiterX_Core_Control_Panel_Updates_Manager->get_updates('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_jupiter...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\utilities\plugins.php on line 346
+
+2021-11-05T11:59:28+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\utilities\plugins.php:346
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\control-panel-2\includes\class-updates-manager.php(95): jupiterx_core_update_plugins_status(Object(WP_Error))
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\control-panel-2\includes\class-updates-manager.php(65): JupiterX_Core_Control_Panel_Updates_Manager->get_plugins_updates()
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): JupiterX_Core_Control_Panel_Updates_Manager->get_updates('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_jupiter...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\utilities\plugins.php on line 346
+
+2021-11-05T12:00:54+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\utilities\plugins.php:346
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\control-panel-2\includes\class-updates-manager.php(95): jupiterx_core_update_plugins_status(Object(WP_Error))
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\control-panel-2\includes\class-updates-manager.php(65): JupiterX_Core_Control_Panel_Updates_Manager->get_plugins_updates()
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): JupiterX_Core_Control_Panel_Updates_Manager->get_updates('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_jupiter...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\utilities\plugins.php on line 346
+
+2021-11-05T12:02:33+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\utilities\plugins.php:346
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\control-panel-2\includes\class-updates-manager.php(95): jupiterx_core_update_plugins_status(Object(WP_Error))
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\control-panel-2\includes\class-updates-manager.php(65): JupiterX_Core_Control_Panel_Updates_Manager->get_plugins_updates()
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): JupiterX_Core_Control_Panel_Updates_Manager->get_updates('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_jupiter...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\jupiterx-core\includes\utilities\plugins.php on line 346
+
